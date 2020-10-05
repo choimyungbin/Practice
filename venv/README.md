@@ -1,13 +1,15 @@
-# 제목
-##제목2
-###제목3
-_굵게_ __기울기__
+# 삼국지
 
-`강조`
+`이걸 왜 쓰고 있는가`
 
-1. 첫 번째 항목
-2. 두 번째 항목
-+ 순서 없는 것
-+ 순서 x  
-[링크1](https://www.google.com)  
-![사과](https://lh3.googleusercontent.com/proxy/lqiHLhleVSciSm51lDhSOx38OomO62CnBd8fPwRDc4ozWcSwd45mP7urbuMKlpcRjTBk9pzNShhNkcMx09wsJb7eSztjVQNomyE2jR-ek5AAINVf0nwp11RJcI5mYhZUw1JzZWwaLH_FKP5qwoCftSwetja409Jgj5ygzC2JPm790CYGCPRIDTWK9sQ3c2PyLMtUfbGcqKnxt5lHdAASeZEtJDd5EouWZBuV0_IQPmZz3LSqm94pcLJMg_4A4ARtpLwRZMK3-P0_YFjNBXlAUgZvRDOO9ghQGO2KlxD1NavLkxbpplR7k4AqTWU)
+[만화 링크](http://blog.daum.net/baram780316/6968639)
+![위촉오](http://principlesofknowledge.kr/wp-content/uploads/2017/06/b08dba25066e37cd6bb419bc7813b9e6.png)
+1. 줄거리
+    + 후한이 망하고 있었음
+    + 이걸 보고만 있을 수 없던 반역자 친구들이 목숨 걸고 벌이는 땅따먹기 놀이
+    + ~~결국 다 죽음~~
+2. 교훈이 있다면?
+    + 책사 말을 잘 듣자
+    + 자식 농사 잘 하자
+3. 느낀 점
+    + 저렇게 살지 말아야지
